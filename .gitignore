@@ -1,1 +1,14 @@
 # .gitignore for the book summary quotes repo.
+
+# Ignore any .aux files.
+*.aux
+
+# Ignore any .dvi files
+*.dvi
+
+# Ignore any .log files.
+*.log
+
+# Ignore any OS .fuse files.
+*.fuse_*
+
