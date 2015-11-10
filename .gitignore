@@ -12,3 +12,8 @@
 # Ignore any OS .fuse files.
 *.fuse_*
 
+# Ignore any Xournal files.
+*.xoj
+
+# Ignore any .png pictures
+*.png
