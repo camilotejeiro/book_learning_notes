@@ -1,8 +1,9 @@
-************************************************************************
-				How to Win Friends and Influence People
-------------------------------------------------------------------------
-##								Quotes
-************************************************************************
+*******************************************
+# How to Win Friends and Influence People # 
+-------------------------------------------
+##               Quotes                  ##
+*******************************************
+
 Adapted From Dale Carnegie Book "How to Win Friends and Influence People"
 
 The way to develop self confidence is to do the things you fear to do

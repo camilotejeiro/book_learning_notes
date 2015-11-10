@@ -1,0 +1,16 @@
+#!/bin/sh
+
+rm $0
+
+evince "chapter_11-emc2_and_all_that.pdf"
+
+echo "
+
+------------------
+(program exited with code: $?)" 		
+
+
+echo "Press return to continue"
+#to be more compatible with shells like dash
+dummy_var=""
+read dummy_var
