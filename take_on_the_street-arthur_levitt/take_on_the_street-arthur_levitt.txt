@@ -290,5 +290,162 @@ for a client, he can't turn around and vouch for the accuracy and
 completeness of those books. After all, what accountants would want to 
 draw attention to their own mistakes.
 
-// Chapter 6.
+The fact is, too many investors don't pay enough attention to the 
+fundamentals of a company's business. 
 
+By learning how to read financial statements and looking for common 
+accounting tricks, you can be your own watchdog. This isn't as daunting 
+as you think. The best way to do this is by ignoring the glossy annual 
+report that comes in the mail. Instead, go right to the dry, but far 
+more informative, Form 10-k, or annual report on file at the SEC. 
+Unlike the quarterly form 10-Q, the 10-K must be audited by an 
+independent auditor.
+
+The 10-K ir where the company must disclose everything that might 
+affect its future performance, whether that's a lawsuit, a shrinking 
+market share, or the pending expiration of a key patent. The 10-K is 
+also where you will find the company's financial statements.
+
+Unfortunately, you can't take the attitude that investing in high 
+quality companies protects you from accounting trickery. No company is 
+completely immune from the pressue to cut corners. But many on Wall 
+Street and in corporate America would have you believe that you need 
+an accounting degree to understand financial statments. Don't believe 
+it.
+
+When a company files an annual report with the SEC, it must contain 
+three documents that the accountants produce: the balance sheet, the 
+income statement, and the cash-flow statement. You should always use 
+these as a reference to get an idea for the health of the company.
+
+The balance sheet is a snapshot of a company's overall financial 
+health, similar to the annual checkup you get when you visit the 
+family doctor. It tells you which companies are growing internally and 
+which are using debt to pump up results.
+
+The balance sheet lists assets, which are resources such as cash and 
+equipment, and liabilities, which are obligations such as debt and 
+accounts payable (payments the company owes to others), at a specific 
+point in time - the last day of the reporting period.
+
+The difference between assets and liabilities is called shareholders' 
+equity. Shareholders' equity includes any investments by the company's 
+owners (such as you, if you own shares) plus any profits that have 
+been reinvested in the business rather than paid out as dividends to 
+the owners.
+
+Current assets are assets that are cash or will be converted into cash 
+in the short term (generally within one year). This includes 
+short-term investments, accounts receivable (payments due for services 
+already delivered or products already sold), and inventories (raw 
+materials or finished product available for sale but not yet sold).
+
+Non-current assets are those that are not as liquid as current assets. 
+This includes medium and long-term investments, real state, physical 
+plant, and equipment. Many of these assets must (by GAAP standards) be 
+either depreciated (tangible assets: buildings, furniture, and 
+equipment) or amortized (intangible assets: patents, trademarks and 
+copyrights). 
+
+Depreciating an asset means allocating its cost as an expense over the 
+period the company uses the asset to generate revenue. On the balance 
+sheet, depreciable assets are shown at their original price, offset by 
+depreciation that has accumulated over the years. Because depreciation 
+is also an expense, it has the effect of reducing earnings in the 
+income statement each year.
+
+Amortization recognizes that an intangible asset has a limited useful 
+life, and therefore a portion of the asset's costs is recorded as an 
+expense each year. On the balance sheet, intangibles are recorded at 
+their historical cost less amortization. Intangible assets don't have 
+a maximum life (over which they must be amortized) but instead are 
+required to be written down when they loose value.
+
+Total assets must equal the total liabilities and stockholders' 
+equity.
+
+Current liabilities, which generally must be paid within a year, 
+include such items as outstanding supplier invoices, short-term notes 
+(or IOUs), the current portion of any long-term debt, and income taxes 
+not yet paid. 
+
+Noncurrent liabilities are those that are not due in the next year, 
+such as the long-term portion of notes and mortgages (any interest 
+payments due on these will appear as interest payable under current 
+liabilities) and capital leases. 
+
+Liabilities and equity are listen in the general order in which they 
+are expected to be paid in case of bankruptcy or liquidation. Money 
+owed to suppliers is first in line, while common stockholders are last 
+in line.
+
+Retained earnings are the dollar amount of a company's earnings that 
+was not distributed to shareholders as dividends. This does not mean 
+that the money is in the bank or available for distribution to 
+shareholders. Instead, earnings most likely were reinvested in the 
+business (for example to expand a company's product lines or to build 
+a new manufacturing facility).
+
+What clues should investors look for in the balance sheet? An easy way 
+to get a feel for a company's health is by checking inventories and 
+receivables . If either one is growing a lot faster than sales (or 
+revenues) on the income statement, then trouble may be brewing. If 
+inventories are rising, the company could be having trouble selling as 
+much as it forecasted. If demand is weakenin, have the company's 
+products lost customer acceptance in the marketplace? Has technology 
+changed? Has a new competitor entered the marketplace? Is a general 
+softness hurting the company?
+
+If accounts receivable are growing faster than sales, has the company 
+induced customers, using discounts and easy cancellation terms, to buy 
+more goods than they really need? One dangerous by-product of such a 
+trend is called "channel stuffing". When a company shoves its products 
+out to retailers and distributors, these buyers often delay peyment 
+for shipments, pushing up the accounts receivable number. 
+
+Rising accounts receivable can also signal a change in a company's 
+credit policy. Some companies will lower their credit standards by 
+accepting, for example, payment in ninety days versus sixty days, in 
+order to boost anemic sales.
+
+When inventoires are written down in value, investors should ask: What 
+was the root cause? Did the company overestimate what it could sell? 
+Is this a sign of poor sales forecasting, order management, or 
+production quality controls? Normally, temporary reductions in 
+revenues and profits do not result in assets being written down in 
+value (Under GAAP). Rather, write-downs typically are caused by 
+longer-term or permanent reductions in sales value. 
+
+A write-down means that the company does not expect to recover the 
+money it invested in inventory. Companies are required to explain 
+these changes in trends, and their expected effect on the future 
+operations of the company, in an important section of their financial 
+reports called "management's discussion and analysis."
+
+It's vital to understand that a write-down is not just the one-time, 
+historical event that analysts and corporate executives would have you 
+believe. Instead, a write-down could indicate problems with the 
+business strategy, product development, or marketing channels.
+
+Some companies write off inventory as worthless, but don't dispose of 
+it. Why would a company incur the cost of maintaining and warehousing 
+what it has declared as worthless inventory? One reason is that the 
+company may intend to use the inventory or sell it (and funnel the 
+extra revenue back to the income statement). This way companies can 
+make future earnings look rosier than they really are. 
+
+By itself, debt isn't a bad thing. But if a company can't produce 
+sufficient revenuews to pay its debts, then it's asking for trouble. 
+
+One way to measure debt is to look at the ration of long-term debt to 
+the company's total invested capital. In the balance sheet, find the 
+amount of long-term debt (i.e. longer than one year). Divide that 
+figure by the totoal amount of capital (all equity invested in the 
+company plus all debt). A ratio of 20 percent is considered high.
+
+Another way to see whether the debt incurred by a company is 
+sustainable is by comparing the amount of cash (listed under assets) 
+to the amount of debt (listed under liabilites). A large debt as 
+compared to cash available it's an indicator for trouble.  
+
+// the income statement.
