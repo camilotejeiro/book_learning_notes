@@ -448,4 +448,96 @@ sustainable is by comparing the amount of cash (listed under assets)
 to the amount of debt (listed under liabilites). A large debt as 
 compared to cash available it's an indicator for trouble.  
 
-// the income statement.
+The income statement, sometimes called the profilt-and-loss statement or 
+the statment of operations, is a report on the company's business 
+activities for one quarter or one year. It has two main components: 
+revenues (money or promises of money flowing in) and expenses (money 
+or promises of money flowing out).
+
+While the balance sheet measures a company's overall health, the 
+income statement measures its performance.
+
+Revenues are important, but it's a mistake to focus on this top-line 
+number. You need to look at the quality of the revenues and the 
+company's entire income statement to gauge its true financial 
+performance.
+
+The cost of goods sold is the amount the company paid (the cost) for 
+the items sold out of inventory.
+
+Operating expenses (e.g. selling, general and administrative costs): 
+This important category of expense measures how good management is at 
+controlling the overhead costs associated with running its 
+operations. 
+
+Selling expenses often include the salaries of the sales staff, 
+travel and entertainment costs, advertising, and distribution.
+
+Administrative expenses often include officers' salaries, legal 
+services, utilities, insurance, office equipment, depreciation ...etc.
+
+Research and development expenses should be compared across similar 
+types of companies. If the percentage is unusually high or low, the 
+company may not be managing or investing its R&D dollars wisely. 
+
+Gains or losses from discountinued operations, restructuring costs 
+and extraordinary gains or losses must be unrelated to the business's 
+normal activities and they must be one-time and highly unusual events. 
+Be careful, in the last dozen or so years, companies have made liberal 
+use of this description for items that are not, in fact, unusual or 
+one-time events.
+
+If a company has determined that one of its operating divisions has 
+experienced lower sales and reduced profitability, it could decide to 
+restructure that division by laying off employees, reducing 
+inventories, and closing plants. The costs associated with this 
+downsizing are often called restructuring charges, and they appear on 
+the income statment. 
+
+A restructuring is a signal that the underlying economics of the 
+business have changed and can be a red flag that the company has 
+long-term problems.
+
+Any difference between taxes based on earnings reported in the income 
+statement and what the company currently owes the IRS is called 
+deferred taxes.
+
+Net income, also called the bottom line is the profit the company is 
+showing after subtracting out all expenses from the revenue. Keep in 
+mind this is a GAAP number and differs from the advertised pro-forma or 
+operating earnings.
+
+Companies will go to ridiculous lengths to pump up their pro forma 
+earnings number; some as far as excluding marketing expenses from the 
+calculation.
+
+While GAAP may not be perfect, at least it forces companies to follow 
+consistent rules for the sake of comparison. If each company decides 
+what to include or exclude from its pro forma earnings, the result is 
+what former SEC chief accountant Lynn Turner calls EBBS numbers, or 
+"everything but the bad stuff."
+
+Until the FASB can come up with a better definition for core operating 
+or recurring earnings, net income is more trustworthy than pro forma 
+figures.
+
+The earnings per share (EPS) figure tells investors how much money the 
+company earned for each share of stock outstanding. Again, be careful. 
+The truer measure of how successful a company has been is the fully 
+diluted EPS number, rather than the basic EPS number.
+
+The fully diluted earnings per share number takes into account stock 
+opetions issued to managers but not yet exercised. It also accounts 
+for bonds, preferred shares, and stock warrants that can be converted 
+to common stock. Thus, causing basic earnings per share (EPS) to drop 
+significantly.
+
+Return on Assets (ROA) is a useful measure to find out both the 
+economics of the business and how efficient is management using 
+investors' capital to increase returns. Find the net income number on 
+the income statement and divide that figure by the total assets number 
+on the balance sheet. A healthy company will have an ROA of at least 5 
+percent.
+
+// The cash flow statment.
+
