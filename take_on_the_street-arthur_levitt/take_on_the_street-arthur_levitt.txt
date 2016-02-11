@@ -539,5 +539,88 @@ the income statement and divide that figure by the total assets number
 on the balance sheet. A healthy company will have an ROA of at least 5 
 percent.
 
-// The cash flow statment.
+As its name implies, the cash flow statement shows the actual cash that 
+came into the company and the actual cash that flowed out. 
 
+The balance sheet reveals a company's assets, liabilities, and 
+shareholders' equity at the close of the fiscal year or the most 
+recent quarter.
+
+The income statement reflects the changes that have occurred in the 
+balance sheet items, including promises of money that the company has 
+made or received. 
+
+The cash-flow statement reveals the changes in actual cash that the 
+business has generated and the actual cash raised from creditors and 
+investors. It also shows how the company invested that cash between 
+the start of one fiscal year to the end of another. In short cash flow 
+shows where the money is coming from and how the money is being spent.
+
+The first item in the cash-flow statement is the "cash from operating 
+activities," which is the money that comes in from sales of the 
+company's products and services and the money going out to produce 
+those sales. It also includes interest and tax payments.
+
+Recall that accounting rules allow companies to list revenues on the 
+income statement before they receive actual actual payment. Not so on 
+the cash-flow statement, it must list only revenues actually collected.
+
+You may seen negative cash flow from operations. While on its face 
+that may seem like a bad sign, it isn't always a signal to sell. 
+Fast-growing start-ups, which consume more cash than they can 
+generate in the first few years of the business, will specially show 
+negative cash flow. They cover the shortfalll by borrowing money or 
+issuing stock. But sometimes negative operating cash flow indicates 
+that a company is in serious trouble, especially if the company is 
+disposing of assets (e.g by selling off pieces of the company), because 
+it can't persuade investors to buy its stock or bankers to lend it 
+money. 
+
+The second item on the cash-flow statement is "cash from investing 
+activities." This is where the company reveals how it's using its 
+excess cash, either by investing in other companies or by expanding 
+its own business. 
+
+The "cash from investing activites" part of the cash flow statement 
+also reveals any investments in long-term assets, such as an acquisition 
+(or a sale) of a manufacturing plant or equipment, or the opening of 
+new retail stores. Loans to company executives to allow them to buy 
+stock will also be listed here. 
+
+The "cash from financing activities" part of the cash flow statement 
+includes money that comes in or goes out when a company sells or buys 
+shares of its own stock. Issuing new debt will show up here as an 
+increase in cash. Paying dividends or paying debt will show up as a 
+decrease in cash. A start-up company is more likely to show lots of 
+financing activity, since the cash to run the business has to come 
+from somewhere.
+
+If you look at the balance sheet for the amount of cash a company has 
+- listed under current assets - that figure comes directly from the 
+final cash balance on the cash flow statement.
+
+When looking for clues in the cash-flow statement, it is sometimes 
+necessary to examine cash flow side by side with the income statement, 
+and also to examine both statements over multiple reporting periods. 
+For example, if net earnings on the income statement have rocketed, 
+but actual cash received from operations is much lower, that could be 
+a sign that bad debts or obsolete inventories are piling up and next 
+period's earnings could be lower.
+
+To see if a company is playing the numbers game, compare the rate of 
+growth in net income with the rate of grwoth in operating cash. If net 
+income is growing at 10 percent but operating cash is growing at only 
+1 percent, while in years past the two numbers moved at a fairly even 
+pace, that could signal that net income isn't as muscular as it 
+appears. Or you can divide the net income on the income statement into 
+the total cash from operating activities. The closer the answer is to 
+one, the higher the quality of the earnings.
+
+It's far more difficult to manipulate the cash-flow statement than the 
+income statement. Still, cash flow can be artificially inflated. 
+Adding the tax benefits of stock options is one way companies improve 
+cash flow, sounds deceptive, but it is perfectly legal. If you want a 
+truer picture of operating cash flow, subtract the stock option tax 
+benefit.
+
+// Don't ignore the foot notes.
